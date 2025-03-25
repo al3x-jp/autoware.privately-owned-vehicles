@@ -1,7 +1,7 @@
 # oneDNN_SceneSeg
 oneDNN Implementation of SceneSeg Network
 
-Network data extration script based on/modified version of "prepareData.py" from here: "oneDNN/examples/network/prepareData.py"
+Network data extraction script based on/modified version of "prepareData.py" from here: "oneDNN/examples/network/prepareData.py"
 Network construction based on/modified versions of "pointnet.cpp" from "oneDNN/examples/network/pointnet.cpp", and "cnn_inference_f32.cpp" from "oneDNN/examples/cnn_inference_f32.cpp"
 
 ## Extract Pre-trained Data from *.pth file
